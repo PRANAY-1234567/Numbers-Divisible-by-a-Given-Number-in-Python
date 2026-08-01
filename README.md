@@ -109,7 +109,6 @@ Total numbers divisible by x: 6
 # 🔍 How It Works
 
 1. Read the values of **x** and **y** from the user.
-
 2. Initialize a counter variable to **0**.
 3. Iterate through every number from **x** to **y**.
 4. Check whether the current number is divisible by **x** using the modulus operator.
