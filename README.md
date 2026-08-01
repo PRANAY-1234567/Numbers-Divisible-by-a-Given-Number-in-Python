@@ -109,14 +109,15 @@ Total numbers divisible by x: 6
 # 🔍 How It Works
 
 1. Read the values of **x** and **y** from the user.
-2. Initialize a counter variable to **0**.
-3. Iterate through every number from **x** to **y**.
-4. Check whether the current number is divisible by **x** using the modulus operator.
-5. If divisible:
+2. 
+3. Initialize a counter variable to **0**.
+4. Iterate through every number from **x** to **y**.
+5. Check whether the current number is divisible by **x** using the modulus operator.
+6. If divisible:
 
    * Print the number.
    * Increment the counter.
-6. After the loop completes, display the total count of divisible numbers.
+7. After the loop completes, display the total count of divisible numbers.
 
 ---
 
