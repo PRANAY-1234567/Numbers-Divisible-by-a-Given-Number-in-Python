@@ -9,3 +9,4 @@ for i in range(x, y + 1):
         count += 1
 
 print("\nTotal numbers divisible by x:", count)
+
